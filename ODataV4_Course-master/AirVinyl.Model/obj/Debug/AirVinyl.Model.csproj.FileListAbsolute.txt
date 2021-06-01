@@ -5,7 +5,6 @@ C:\Users\itztu\OneDrive\Desktop\Git Repositories\OData_v4_asp_net_api\ODataV4_Co
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\OData_v4_asp_net_api\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.pdb
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinyl.Model\bin\Debug\AirVinyl.Model.dll
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinyl.Model\bin\Debug\AirVinyl.Model.pdb
-C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.csprojAssemblyReference.cache
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.csproj.CoreCompileInputs.cache
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.dll
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinyl.Model\obj\Debug\AirVinyl.Model.pdb
