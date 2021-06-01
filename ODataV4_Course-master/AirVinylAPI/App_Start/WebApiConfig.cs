@@ -27,6 +27,7 @@ namespace AirVinylAPI
 
             config.MapODataServiceRoute("ODataRoute", "odata", GetEdmModel());
             config.EnsureInitialized();
+
         }
 
         public static IEdmModel GetEdmModel()

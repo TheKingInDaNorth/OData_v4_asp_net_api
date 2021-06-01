@@ -103,7 +103,6 @@ C:\Users\itztu\OneDrive\Desktop\Git Repositories\OData_v4_asp_net_api\ODataV4_Co
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\obj\Debug\AirVinylAPI.csproj.CopyComplete
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\obj\Debug\AirVinylAPI.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\obj\Debug\AirVinylAPI.pdb
-C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\Microsoft.OData.Core.xml
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\AirVinylAPI.dll.config
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\AirVinylAPI.dll
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\AirVinylAPI.pdb
@@ -189,6 +188,7 @@ C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\A
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\Microsoft.Extensions.DependencyInjection.xml
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\Microsoft.OData.Core.xml
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\Microsoft.OData.Edm.xml
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\Microsoft.Spatial.xml
 C:\Users\tuan.vo\Desktop\git folder\OData_v4_asp_net_api\ODataV4_Course-master\AirVinylAPI\bin\System.Buffers.xml
